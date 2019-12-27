@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Gatsby Starter Personal Blog`,
-    author: `Kyle Matthews`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `The Nerdy Python - Ball Python Hobbyists & Breeders`,
+    author: `Nerdy Python`,
+    description: `A website for information and purchasing ball pythons.`,
+    siteUrl: `https://www.thenerdypython.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `pythonnerdy`,
     },
   },
   plugins: [
@@ -70,8 +70,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Nerdy Python`,
+        short_name: `NerdyPython`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,

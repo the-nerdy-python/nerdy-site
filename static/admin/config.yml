@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: the-nerdy-python/nerdy-site
 
 media_folder: static/assets
 public_folder: assets
