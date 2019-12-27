@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `The Nerdy Python - Ball Python Hobbyists & Breeders`,
+    title: `The Nerdy Python`,
     author: `Nerdy Python`,
     description: `A website for information and purchasing ball pythons.`,
     siteUrl: `https://www.thenerdypython.com`,
